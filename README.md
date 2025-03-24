@@ -1,3 +1,3 @@
 # python-game
-termux
-pkg install python python3
+#termux
+#pkg install python python3
